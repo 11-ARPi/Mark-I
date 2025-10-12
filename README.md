@@ -1,2 +1,2 @@
 # Build-a-robotic-hand
-l
+Here you will find everything you need to build a robotic hand yourself.
