@@ -1,5 +1,5 @@
 # Introduction
-Below is a tutorial that will help you build your own robotic hand that closes and opens its fingers using an IR sensor. I named it Mark I, but you can call it whatever you want.
+Below is a tutorial that will help you build your own robotic hand that closes and opens its fingers using an IR sensor. I named it **Mark I**, but you can call it whatever you want.
 
 
 
@@ -15,7 +15,7 @@ Below is a tutorial that will help you build your own robotic hand that closes a
 
 
 
-Mark I's code:
+## Mark I's code:
 
     #include <Servo.h>
     
