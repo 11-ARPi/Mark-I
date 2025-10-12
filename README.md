@@ -8,5 +8,5 @@ Here you will find everything you need to build a robotic hand yourself.
 - 1 or 2 breadboards
 - Cables jumper
 
-    # Optional
-      - 1 power bank (to power the Arduino)
+ # Optional
+  - 1 power bank (to power the Arduino)
