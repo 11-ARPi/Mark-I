@@ -8,5 +8,5 @@ Here you will find everything you need to build a robotic hand yourself.
 - 5 servomotors (for each finger)
 - 1 or 2 breadboards
 - Cables jumper
-  #Optional
+#Optional
   - 1 power bank (to power the Arduino)
