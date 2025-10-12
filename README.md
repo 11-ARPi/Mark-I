@@ -3,13 +3,15 @@ Below is a tutorial that will help you build your own robotic hand that closes a
 
 
 
-## Materials needed:
+# Materials needed:
 - 1 Arduino Uno
 - 1 IR sensor
 - 5 servomotors (for each finger)
 - 1 or 2 breadboards
 - Cables jumper
   
-### Optional 
+## Optional:
   - 1 power bank (to power the Arduino)
+
+  
 
