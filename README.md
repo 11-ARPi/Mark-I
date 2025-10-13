@@ -14,5 +14,6 @@ Below is a tutorial that will help you build your own robotic hand that closes a
 ## Optional:
   - 1 power bank (to power the Arduino)
 
+![image alt](https://www.bucataras.ro/uploads/modules/news/66419/656x492_cascaval-de-casa-352018.jpg)
   
 
